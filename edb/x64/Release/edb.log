@@ -1,0 +1,25 @@
+﻿  CComHelper.cpp
+D:\HuaweiMoveData\Users\HW\Desktop\edb-main\edb\CComHelper.cpp(83,34): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  EDBInterface.cpp
+D:\HuaweiMoveData\Users\HW\Desktop\edb-main\edb\EDBInterface.cpp(29,7): warning C4101: “ret”: 未引用的局部变量
+D:\HuaweiMoveData\Users\HW\Desktop\edb-main\edb\EDBInterface.cpp(28,8): warning C4101: “wrcnt”: 未引用的局部变量
+D:\HuaweiMoveData\Users\HW\Desktop\edb-main\edb\EDBInterface.cpp(43,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\HuaweiMoveData\Users\HW\Desktop\edb-main\edb\EDBInterface.cpp(107,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\HuaweiMoveData\Users\HW\Desktop\edb-main\edb\EDBInterface.cpp(127,31): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+D:\HuaweiMoveData\Users\HW\Desktop\edb-main\edb\EDBInterface.cpp(135,25): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\HuaweiMoveData\Users\HW\Desktop\edb-main\edb\EDBInterface.cpp(156,24): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\HuaweiMoveData\Users\HW\Desktop\edb-main\edb\EDBInterface.cpp(270,21): warning C4477: “sprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+      D:\HuaweiMoveData\Users\HW\Desktop\edb-main\edb\EDBInterface.cpp(270,21):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\HuaweiMoveData\Users\HW\Desktop\edb-main\edb\EDBInterface.cpp(386,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\HuaweiMoveData\Users\HW\Desktop\edb-main\edb\EDBInterface.cpp(425,13): warning C4244: “return”: 从“WCHAR”转换到“char”，可能丢失数据
+D:\HuaweiMoveData\Users\HW\Desktop\edb-main\edb\EDBInterface.cpp(453,23): warning C4129: “C：: 不可识别的字符转义序列
+D:\HuaweiMoveData\Users\HW\Desktop\edb-main\edb\EDBInterface.cpp(454,23): warning C4129: “D：: 不可识别的字符转义序列
+  main.cpp
+  WinReg.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 259 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  edb.vcxproj -> D:\HuaweiMoveData\Users\HW\Desktop\edb-main\x64\Release\edb.exe

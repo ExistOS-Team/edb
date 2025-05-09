@@ -1,2 +1,11 @@
 ﻿  CComHelper.cpp
-  edb.vcxproj -> C:\Users\14408\source\repos\edb\Debug\edb.exe
+  EDBInterface.cpp
+D:\HuaweiMoveData\Users\HW\Desktop\edb-main\edb\EDBInterface.cpp(29,7): warning C4101: “ret”: 未引用的局部变量
+D:\HuaweiMoveData\Users\HW\Desktop\edb-main\edb\EDBInterface.cpp(28,8): warning C4101: “wrcnt”: 未引用的局部变量
+D:\HuaweiMoveData\Users\HW\Desktop\edb-main\edb\EDBInterface.cpp(425,13): warning C4244: “return”: 从“WCHAR”转换到“char”，可能丢失数据
+D:\HuaweiMoveData\Users\HW\Desktop\edb-main\edb\EDBInterface.cpp(453,23): warning C4129: “C：: 不可识别的字符转义序列
+D:\HuaweiMoveData\Users\HW\Desktop\edb-main\edb\EDBInterface.cpp(454,23): warning C4129: “D：: 不可识别的字符转义序列
+  main.cpp
+  WinReg.cpp
+  正在生成代码...
+  edb.vcxproj -> D:\HuaweiMoveData\Users\HW\Desktop\edb-main\Debug\edb.exe

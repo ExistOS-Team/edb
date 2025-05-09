@@ -1,6 +1,1 @@
-﻿  main.c
-C:\Users\14408\source\repos\edb\edb\main.c(82,3): warning C4033: “EnumerateComPortSetupAPI_GUID_DEVINTERFACE_COMPORT”必须返回值
-C:\Users\14408\source\repos\edb\edb\main.c(21,9): warning C4101: “pTempPortName”: 未引用的局部变量
-C:\Users\14408\source\repos\edb\edb\main.c(276,9): warning C4101: “pTempPortName”: 未引用的局部变量
-C:\Users\14408\source\repos\edb\edb\main.c(268): warning C4715: “EnumerateComPortSetupAPI_GUID_DEVINTERFACE_COMPORT”: 不是所有的控件路径都返回值
-  edb.vcxproj -> C:\Users\14408\source\repos\edb\x64\Debug\edb.exe
+﻿  edb.vcxproj -> D:\HuaweiMoveData\Users\HW\Desktop\edb-main\x64\Debug\edb.exe
